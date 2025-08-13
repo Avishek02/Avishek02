@@ -17,5 +17,5 @@ A professional Web developer from Bangladesh
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true&theme=radical" alt="YOUR-USERNAME's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Languages" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishek02&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishek02&theme=dark&hide_border=true)](https://git.io/streak-stats)
