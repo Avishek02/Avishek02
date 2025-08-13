@@ -14,14 +14,13 @@ A professional Web developer from Bangladesh
 
 ### 📊 GitHub Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true&theme=radical" alt="YOUR-USERNAME's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Languages" />
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishek02&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 
 
-# Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
