@@ -16,7 +16,7 @@ A professional Web developer from Bangladesh
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishek02&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Avishek02&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false)<br/>
 
 
