@@ -1,6 +1,6 @@
-### 👋 Hi, I'm MD. AKTAR AHMED
+### 👋 Hi, I'm Avishek
 
-A passionate developer from Bangladesh. Welcome to my profile!
+A professional Web developer from Bangladesh
 
 ### 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +15,7 @@ A passionate developer from Bangladesh. Welcome to my profile!
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="YOUR-USERNAME's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true&theme=radical" alt="YOUR-USERNAME's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Avishek02&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
