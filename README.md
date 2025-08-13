@@ -20,7 +20,6 @@ A professional Web developer from Bangladesh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Avishek02&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
