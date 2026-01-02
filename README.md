@@ -19,9 +19,9 @@
 
 🚀 Current Activities
 
-💻 Working with HTML5, CSS3, Tailwind CSS
+- 💻 Working with HTML5, CSS3, Tailwind CSS
 
-⚙️ Experienced in JavaScript (ES6+)
+- ⚙️ Experienced in JavaScript (ES6+)
 
 ⚛️ Building frontend applications using React
 
