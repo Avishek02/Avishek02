@@ -12,15 +12,9 @@
 
 ## 📌 Languages Used
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=dark&hide_border=false)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=dark&hide_border=false)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=dark&hide_border=false)
-
-
-![Avishek's Top Langs](https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=vision-glow)
-
-![Metrics](https://metrics.lecoq.io/Avishek02?template=classic&base.languages=1&base.languages.unit=percentage&base.languages.sections=most-used)
 
 
 
