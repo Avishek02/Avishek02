@@ -11,14 +11,10 @@
 # 📊 My GitHub Analytics
 
 ## 📌 Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact)
 
+![Avishek's Top Langs](https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=vision-glow)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=default)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Avishek02?template=classic&base.languages=1&base.languages.unit=percentage&base.languages.sections=most-used)
 
 
 
