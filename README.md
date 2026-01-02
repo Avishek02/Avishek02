@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./banner-image.png" width="70%">
+  <img src="./banner-image.png" width="80%">
 </div>
 
 
