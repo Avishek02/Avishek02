@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="35">
 </a>      <a href="https://codeforces.com/profile/Avishek99" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="35">
-</a>   <a href="https://leetcode.com/u/Avishek02/" style="display:inline-block; margin-bottom:-10px;">
-  <img src="https://res.cloudinary.com/dwhpas5gx/image/upload/r_20/leetcode_canva_edited_k2zknz.png" width="105">
+</a>   <a href="https://leetcode.com/u/Avishek02/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="35">
 </a>
 
 
