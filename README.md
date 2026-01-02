@@ -10,15 +10,15 @@
 
 # 📊 My GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=tokyonight" alt="Avishek's Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true&theme=tokyonight" alt="Avishek's GitHub Stats" />
-</p>
+## 📌 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=default)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
