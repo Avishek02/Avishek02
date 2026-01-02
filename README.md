@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Avishek02/" style="display:inline-block; margin-bottom:-10px;">
-  <img src="https://res.cloudinary.com/dwhpas5gx/image/upload/leetcode_canva_edited_k2zknz.png" width="100">
+  <img src="https://res.cloudinary.com/dwhpas5gx/image/upload/leetcode_canva_edited_k2zknz.png" width="120">
 </a>
 
 
