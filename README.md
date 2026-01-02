@@ -1,3 +1,9 @@
+
+![Banner](./banner-image.png)
+
+
+<br><br>
+
 # 💫 About Me
 👋 Hi, I'm Avishek<br><br>  A professional Full-stack developer from Bangladesh, passionate about crafting pixel-perfect, responsive web applications using modern JavaScript frameworks ⚛️. I thrive on turning complex problems into clean, intuitive user experiences 💡 and bridging the gap between design and functionality 🎨. I'm constantly exploring new technologies to create faster, more scalable digital products 🚀, and my projects showcase a commitment to clean, maintainable code ✅.
 
