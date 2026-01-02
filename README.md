@@ -3,7 +3,18 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 📌 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishek02&show_icons=true)
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Avishek02)
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Avishek02)
+
+
 
 
 ## 🌐 Socials:
