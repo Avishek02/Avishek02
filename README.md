@@ -12,6 +12,9 @@
 
 ## 📌 Languages Used
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=dark&hide_border=false)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=dark&hide_border=false)
 
 
