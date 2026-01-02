@@ -17,27 +17,27 @@
 
 
 
-🚀 Current Activities
+## 🚀 Current Activities
 
 - 💻 Working with HTML5, CSS3, Tailwind CSS
 
 - ⚙️ Experienced in JavaScript (ES6+)
 
-⚛️ Building frontend applications using React
+- ⚛️ Building frontend applications using React
 
-🔐 Implemented Firebase Authentication
+- 🔐 Implemented Firebase Authentication
 
-🧠 Developing backend with Node.js and Express.js
+- 🧠 Developing backend with Node.js and Express.js
 
-🗄️ Managing data using MongoDB
+- 🗄️ Managing data using MongoDB
 
-🔄 Implemented CRUD operations
+- 🔄 Implemented CRUD operations
 
-🔑 Used JWT authentication
+- 🔑 Used JWT authentication
 
-🌍 Deployed projects on Netlify, Vercel and Render
+- 🌍 Deployed projects on Netlify, Vercel and Render
 
-✅ Completed Programming Hero Web Development Course
+- ✅ Completed Programming Hero Web Development Course
 
 
 
