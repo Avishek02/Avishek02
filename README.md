@@ -4,7 +4,7 @@
 <br>
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61576964595081) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avishek-tanchangya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishek2390@gmail.com) <a href="https://wa.me/+8801909912507" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="35">
 </a> <a href="https://codeforces.com/profile/Avishek99" target="_blank">
