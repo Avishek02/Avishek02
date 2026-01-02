@@ -17,6 +17,8 @@
 <br>
 <br>
 
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" /> </p>
+
 
 ## 🚀 Current Activities
 
