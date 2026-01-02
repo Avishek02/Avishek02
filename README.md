@@ -11,13 +11,7 @@
 
 
 <a href="https://codeforces.com/profile/Avishek99" target="_blank">
-  <svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
-    <clipPath id="radius-shape">
-      <rect width="120" height="40" rx="8" ry="8" />
-    </clipPath>
-    <image xlink:href="https://res.cloudinary.com/dwhpas5gx/image/upload/CodeForces_canva_bold_edited_hghzos.png" 
-      width="120" height="40" clip-path="url(#radius-shape)" preserveAspectRatio="xMidYMid slice" />
-  </svg>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" height="35">
 </a>
 
 
