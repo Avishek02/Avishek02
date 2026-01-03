@@ -80,7 +80,8 @@
 <table align="left">
   <tr>
     <td valign="top">
-      <img src="IMG1" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false" />
+    </td>
     </td>
   </tr>
 </table>
@@ -88,7 +89,7 @@
 <table align="left">
   <tr>
     <td valign="top">
-      <img src="IMG2" hspace="20" />
+      <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
     </td>
   </tr>
 </table>
