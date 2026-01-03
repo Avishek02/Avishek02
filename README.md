@@ -89,7 +89,7 @@
 <table align="left">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
+      <img hspace="20"  src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
     </td>
   </tr>
 </table>
