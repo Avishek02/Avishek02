@@ -78,9 +78,7 @@
 
 # 📊 GitHub Stats
 <p>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false" />
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
