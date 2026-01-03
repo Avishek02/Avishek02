@@ -83,7 +83,7 @@
 
 <span align="left" style="display:inline;">
   <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
-</span>   <p style="display:inline;">This is a paragraph</p>
+</span>   <span style="display:inline;">This is a paragraph</span>
 
 <br>
 
