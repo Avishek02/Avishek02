@@ -23,11 +23,8 @@
 </a>
 
 
-
-<br>
-
-
 ---
+<br>
 
 ## 🚀 Current Activities
 
@@ -52,7 +49,7 @@
 - ✅ Completed Programming Hero Web Development Course
 
 
-<br>
+---
 <br>
 
 
@@ -73,9 +70,9 @@
 ## Tools & Deployment
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 <br>
 
----
 
 # 📊 GitHub Stats
 <p align="left">
@@ -85,7 +82,6 @@
 </p>
 
 
-<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Avishek02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
