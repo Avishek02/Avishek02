@@ -81,9 +81,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    
 
-<p align="left" style="display:inline;">
+<span align="left" style="display:inline;">
   <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
-</p>   <p style="display:inline;">This is a paragraph</p>
+</span>   <p style="display:inline;">This is a paragraph</p>
 
 <br>
 
