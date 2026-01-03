@@ -82,6 +82,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Avishek02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
