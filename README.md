@@ -81,6 +81,15 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false" />
 </span>
 
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+
 <span style="display:inline-block; margin-left:10px; vertical-align:top;">
   <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
 </span>
