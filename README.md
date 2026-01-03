@@ -11,7 +11,6 @@
 # 💫 About Me
 👋 Hi, I'm Avishek<br><br>  A professional Full-stack developer from Bangladesh, passionate about crafting pixel-perfect, responsive web applications using modern JavaScript frameworks ⚛️. I thrive on turning complex problems into clean, intuitive user experiences 💡 and bridging the gap between design and functionality 🎨. I'm constantly exploring new technologies to create faster, more scalable digital products 🚀, and my projects showcase a commitment to clean, maintainable code ✅.
 
-<br>
 
 
 ## 🌐 Connect With Me
@@ -80,7 +79,9 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Avishek02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    <p align="left">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishek02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    
+
+<p align="left" style="display::inline;">
   <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
