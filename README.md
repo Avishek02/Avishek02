@@ -77,7 +77,7 @@
 <br><br>
 
 # 📊 GitHub Stats
-<table align="left">
+<table align="left" border="none">
   <tr>
     <td valign="top">
       <img src="https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false" />
@@ -98,7 +98,7 @@
 
 <br>
 
-<div></div>
+<div>This is a div</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Avishek02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
