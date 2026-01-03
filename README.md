@@ -77,22 +77,11 @@
 <br><br>
 
 # 📊 GitHub Stats
-<table align="left" border="none">
-  <tr>
-    <td valign="top">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false" />
-    </td>
-    </td>
-  </tr>
-</table>
-
-<table align="left">
-  <tr>
-    <td valign="top">
-      <img hspace="20"  src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Avishek02&theme=dark&hide_border=false" align="top" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Avishek02&layout=compact&theme=radical" alt="Top Langs" align="top" />
+</p>
 
 
 
