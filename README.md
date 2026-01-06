@@ -82,6 +82,10 @@
 </p>
 
 
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishek002&custom_title=Coding%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Avishek02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
