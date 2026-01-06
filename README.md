@@ -103,5 +103,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Avishek02)  -->
 
 <div align="center">
-  <strong> Thanks for visiting! Let's build something amazing together! 🚀 </strong>
+  <b> Thanks for visiting! Let's build something amazing together! 🚀 </b>
 </div>
