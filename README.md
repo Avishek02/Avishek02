@@ -102,5 +102,6 @@
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Avishek02)
 
-
+<div align="center">
   **Thanks for visiting! Let's build something amazing together! 🚀**
+</div>
