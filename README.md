@@ -99,8 +99,8 @@
 [![](https://visitcount.itsvg.in/api?id=Avishek02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Avishek02)
+<!-- ## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Avishek02)  -->
 
 <div align="center">
   **Thanks for visiting! Let's build something amazing together! 🚀**
